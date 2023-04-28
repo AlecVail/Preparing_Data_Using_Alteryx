@@ -22,4 +22,19 @@ The first few questions regard coffee...Here is my coffee workflow:
 
  Question 1: Which state is the biggest consumer of regular coffee?
  
+ First, I create a custom filter to separate regular coffee from everything else...
+ 
  ![Coffee - Regular - Filter](https://user-images.githubusercontent.com/100732722/235213902-7c089506-9bee-4e07-b029-a2cb2cef56ee.png)
+ 
+ Second, I use the Summarize tool to GROUP BY state and SUM total sales. This allows us to view consumption per state. Side note: For this particular work flow, I changed the column header in the Summary tool to create clarity for myself and eliminate the need to re-name later on...
+ 
+ ![Coffee - Regular - Summarize](https://user-images.githubusercontent.com/100732722/235215662-544efb42-814c-4334-9b56-130291b4c9f8.png)
+ 
+ Now I need to prep the data so i can select the highest grossing state later on in the workflow. So I use the SORT tool to do exactly that...
+ 
+ ![Coffee - Regular - Sort](https://user-images.githubusercontent.com/100732722/235216347-039cdfc1-28fd-4546-8a65-8c57a384f3bc.png)
+ 
+ Now that the consumption of regular coffee per state is sorted from biggest consumer to smallest consumer, we can pull the #1 state using the SAMPLE tool...
+ 
+ ![Coffee - Regular - Sample](https://user-images.githubusercontent.com/100732722/235216807-c688b351-0423-4cf1-a43b-442d6af790dc.png)
+
