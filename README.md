@@ -29,7 +29,7 @@ QUESTION 1: Which state is the biggest consumer of regular coffee?
  
  Second, I use the Summarize tool to GROUP BY state and SUM total sales. This allows us to view consumption per state. 
  
- Side note: For this particular work flow, I changed the column header in the Summary tool to create clarity for myself and eliminate the need to re-name later on...
+ Side note: For this particular work flow, I changed the column header in the Summary tool solely to create clarity for myself...
  
  ![Coffee - Regular - Summarize](https://user-images.githubusercontent.com/100732722/235215662-544efb42-814c-4334-9b56-130291b4c9f8.png)
  
