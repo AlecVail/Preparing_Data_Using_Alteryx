@@ -41,7 +41,7 @@ QUESTION 1: Which state is the biggest consumer of regular coffee?
  
  ![Coffee - Regular - Sample](https://user-images.githubusercontent.com/100732722/235216807-c688b351-0423-4cf1-a43b-442d6af790dc.png)
 
-BOOM! We have found who the biggest consumer of regular coffee is: California.
+BOOM! We have found the biggest consumer of regular coffee: California.
 
 
 QUESTION 2: Which state is the biggest consumer of decaf coffee?
@@ -58,4 +58,14 @@ Like before, we will now use the SORT tool to organize consumption levels per st
 
 ![Coffee - Decaf - Sort](https://user-images.githubusercontent.com/100732722/235221240-2ec48f09-e801-4dfe-97c4-863258becb1a.png)
 
+...The SAMPLE tool...time to select the biggest consumer of decaf coffee...
 
+![Coffee - Decaf - Sample](https://user-images.githubusercontent.com/100732722/235222033-9c53425d-8b54-4a16-a300-882d4ddbc053.png)
+
+BAM! We have found the biggest consumer of decaf coffee: Illinois.
+
+QUESTION 3: Which type of coffee drink is the most popular?
+
+At this point I developed a separate section within my workflow for this question...
+
+![Most Popular Coffee Flow](https://user-images.githubusercontent.com/100732722/235222843-1b4eb5f4-588b-48a7-8326-84076e9a83d4.png)
