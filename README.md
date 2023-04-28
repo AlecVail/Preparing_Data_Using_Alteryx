@@ -66,6 +66,6 @@ BAM! We have found the biggest consumer of decaf coffee: Illinois.
 
 QUESTION 3: Which type of coffee drink is the most popular?
 
-At this point I developed a separate section within my workflow for this question...
+At this point I developed a separate section within my workflow for this question. The connection is coming straight from the input file itself...
 
 ![Most Popular Coffee Flow](https://user-images.githubusercontent.com/100732722/235222843-1b4eb5f4-588b-48a7-8326-84076e9a83d4.png)
