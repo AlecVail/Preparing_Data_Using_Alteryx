@@ -20,7 +20,8 @@ The first few questions regard coffee...Here is my coffee workflow:
 
 ![Coffee Flow](https://user-images.githubusercontent.com/100732722/235213413-75deed1a-4669-4df5-97e5-779f27240fac.png)
 
- Question 1: Which state is the biggest consumer of regular coffee?
+
+QUESTION 1: Which state is the biggest consumer of regular coffee?
  
  First, I create a custom filter to separate regular coffee from everything else...
  
@@ -39,4 +40,22 @@ The first few questions regard coffee...Here is my coffee workflow:
  Now that the consumption of regular coffee per state is sorted from biggest consumer to smallest consumer, we can pull the #1 state using the SAMPLE tool...
  
  ![Coffee - Regular - Sample](https://user-images.githubusercontent.com/100732722/235216807-c688b351-0423-4cf1-a43b-442d6af790dc.png)
+
+BOOM! We have found who the biggest consumer of regular coffee is: California.
+
+
+QUESTION 2: Which state is the biggest consumer of decaf coffee?
+
+Let's do the same thing here as we did with regular coffee. Let's begin by taking all the data from the "False" output of our original filter tool and separate decaf coffee from all tea products...
+
+![Coffee - Decaf - Filter](https://user-images.githubusercontent.com/100732722/235219327-e9c909fe-0132-4539-a753-691ffc50662f.png)
+
+Time to utilize the summary tool to GROUP BY state and SUM sales while changing the name of "state" to "Biggest consumer of Decaf Coffee"...
+
+![Coffee - Decaf - Summarize](https://user-images.githubusercontent.com/100732722/235220709-652de9b2-2cc9-4595-a492-41ceb08f2cbe.png)
+
+Like before, we will now use the SORT tool to organize consumption levels per state in descending order so we can select the biggest consumer with our next tool...
+
+![Coffee - Decaf - Sort](https://user-images.githubusercontent.com/100732722/235221240-2ec48f09-e801-4dfe-97c4-863258becb1a.png)
+
 
