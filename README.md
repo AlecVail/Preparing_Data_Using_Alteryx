@@ -82,4 +82,4 @@ Time to GROUP BY and SUM just like we've done twice before...
 
 ![Popular Coffee - Summarize](https://user-images.githubusercontent.com/100732722/235226476-46e09f84-06c8-484d-ba87-ee655add74af.png)
 
-**I RAN OUT OF TIME FOR THE MOMENT. TO BE COMPLETED BY THE END OF FRIDAY, APRIL 28TH**
+**Ran out of time. To be continued...**
