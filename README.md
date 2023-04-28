@@ -26,7 +26,9 @@ The first few questions regard coffee...Here is my coffee workflow:
  
  ![Coffee - Regular - Filter](https://user-images.githubusercontent.com/100732722/235213902-7c089506-9bee-4e07-b029-a2cb2cef56ee.png)
  
- Second, I use the Summarize tool to GROUP BY state and SUM total sales. This allows us to view consumption per state. Side note: For this particular work flow, I changed the column header in the Summary tool to create clarity for myself and eliminate the need to re-name later on...
+ Second, I use the Summarize tool to GROUP BY state and SUM total sales. This allows us to view consumption per state. 
+ 
+ Side note: For this particular work flow, I changed the column header in the Summary tool to create clarity for myself and eliminate the need to re-name later on...
  
  ![Coffee - Regular - Summarize](https://user-images.githubusercontent.com/100732722/235215662-544efb42-814c-4334-9b56-130291b4c9f8.png)
  
