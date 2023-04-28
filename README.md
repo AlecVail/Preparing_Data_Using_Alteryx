@@ -73,3 +73,13 @@ QUESTION 3: Which type of coffee drink is the most popular?
 At this point I developed a separate section within my workflow for this question. The connection is coming straight from the input file itself...
 
 ![Most Popular Coffee Flow](https://user-images.githubusercontent.com/100732722/235222843-1b4eb5f4-588b-48a7-8326-84076e9a83d4.png)
+
+I begin by using the FILTER tool to separate coffee from tea...
+
+![Most Popular Coffee - Filter](https://user-images.githubusercontent.com/100732722/235225960-20e51c35-0176-46e2-9aa5-b7baf0fc38d7.png)
+
+Time to GROUP BY and SUM just like we've done twice before...
+
+![Popular Coffee - Summarize](https://user-images.githubusercontent.com/100732722/235226476-46e09f84-06c8-484d-ba87-ee655add74af.png)
+
+**I RAN OUT OF TIME FOR THE MOMENT. TO BE COMPLETED BY THE END OF FRIDAY, APRIL 28TH**
