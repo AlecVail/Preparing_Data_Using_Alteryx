@@ -123,3 +123,15 @@ I decided to create new columns named after the result in which we were looking 
 Once the answers to the questions have been individualized, I used the UNION tool to bring them all together by position...
 
 ![Union](https://user-images.githubusercontent.com/100732722/235485647-03d7be62-bae2-4231-be91-64886094d10e.png)
+
+Use the SELECT tool to get rid of any unnecessary data...
+
+![Select - Final](https://user-images.githubusercontent.com/100732722/235485843-4171e197-8075-45e1-8459-e0b074e0e9d8.png)
+
+**Ka-Pow!**...We have officially prepped raw data for further analysis to determine whether coffee or tea is more popular than the other in the U.S.
+
+Here are my personal results:
+![Personal Results - Browse](https://user-images.githubusercontent.com/100732722/235486668-d1436729-1029-47b5-b209-6e5f106d766d.png)
+
+Here are the results from Alteryx Academy:
+![Challenge Solution](https://user-images.githubusercontent.com/100732722/235486743-bae342a4-c91e-4c70-83cf-e7d1b309128b.png)
