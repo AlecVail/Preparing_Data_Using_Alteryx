@@ -98,7 +98,7 @@ Considering the data is now sorted from MOST popular to LEAST popular coffee dri
 
 ...
 
-**...At this point we have found the answer to which state consumes the most amount of Regular/Decaf Coffee & Tea... it is time to put the answers together into a presentable format...**
+...At this point we have found the answer to which state consumes the most amount of Regular/Decaf Coffee & Tea... it is time to put the answers together into a presentable format...
 
 I decided to create new columns named after the result in which we were looking for...
 
@@ -120,6 +120,8 @@ I decided to create new columns named after the result in which we were looking 
 *Most popular tea drink*
 ![Most Popular Tea - Formula](https://user-images.githubusercontent.com/100732722/235485178-0a646118-cd30-45ec-8390-dc29514ffeb7.png)
 
+...
+
 Once the answers to the questions have been individualized, I used the UNION tool to bring them all together by position...
 
 ![Union](https://user-images.githubusercontent.com/100732722/235485647-03d7be62-bae2-4231-be91-64886094d10e.png)
@@ -128,7 +130,7 @@ Use the SELECT tool to get rid of any unnecessary data...
 
 ![Select - Final](https://user-images.githubusercontent.com/100732722/235485843-4171e197-8075-45e1-8459-e0b074e0e9d8.png)
 
-**Ka-Pow!**...We have officially prepped raw data for further analysis to determine whether coffee or tea is more popular than the other in the U.S.
+Ka-Pow!...We have officially prepped raw data for further analysis to determine whether coffee or tea is more popular than the other in the U.S.
 
 Here are my personal results:
 ![Personal Results - Browse](https://user-images.githubusercontent.com/100732722/235486668-d1436729-1029-47b5-b209-6e5f106d766d.png)
