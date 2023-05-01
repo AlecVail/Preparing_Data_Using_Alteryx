@@ -86,13 +86,37 @@ SORT BY sales in descending order...
 
 ![Popular Coffee - Sort](https://user-images.githubusercontent.com/100732722/235479827-610cfa14-9cb7-454e-afd2-73eb65043528.png)
 
-Considering the data is now sorted from most popular to least popular coffee drink by sales, I will pull the most pupular drink via SAMPLE tool...
+Considering the data is now sorted from MOST popular to LEAST popular coffee drink by sales, I will pull the most popular drink via the SAMPLE tool...
 
 ![Popular Coffee - Sample](https://user-images.githubusercontent.com/100732722/235480384-da64085d-4a77-4d06-ae39-c5cd78ef976a.png)
 
-**Now it is time to do the same process as we did for Coffee, but for Tea...**
+**...Now it is time to repeat the same process as we did for Coffee, but for Tea...**
 
 ![Tea Flow](https://user-images.githubusercontent.com/100732722/235483411-52e5a928-6995-4060-a9ae-2caeb126f3bb.png)
 
 ![Most Popular Tea](https://user-images.githubusercontent.com/100732722/235483762-7562cc45-026e-4145-bf61-8b8731646fc7.png)
+
+...
+
+**...At this point we have found the answer to which state consumes the most amount of Regular/Decaf Coffee & Tea... it is time to put the answers together into a presentable format...**
+
+I decided to create new columns named after the result in which we were looking for...
+
+*Biggest consumer of regular coffee*
+![Biggest Consumer of Regular Coffee - Formula](https://user-images.githubusercontent.com/100732722/235484729-30d610c6-4f09-40fd-8199-357daf8fdc3d.png)
+
+*Biggest consumer of decaf coffee*
+![Biggest Consumer of Decaf Coffee - Formula](https://user-images.githubusercontent.com/100732722/235484863-2a569be6-e34c-4c1c-bace-f940171ffefc.png)\
+
+*Most popular coffee drink*
+![Most Popular Coffee Drink - Formula](https://user-images.githubusercontent.com/100732722/235485085-4274e25c-6f3e-4532-90fc-1a1bb86a4a13.png)
+
+*Biggest consumer of regular tea*
+![Biggest Consumer of Regular Tea - Formula](https://user-images.githubusercontent.com/100732722/235484929-95e4fec2-d8bc-4be8-9b0c-4bfa3d983cd8.png)
+
+*Biggest consumer of decaf tea*
+![Biggest Consumer of Decaf Tea - Formula](https://user-images.githubusercontent.com/100732722/235485112-c474f175-92be-4924-aa0e-8a9087041d9d.png)
+
+*Most popular tea drink*
+![Most Popular Tea - Formula](https://user-images.githubusercontent.com/100732722/235485178-0a646118-cd30-45ec-8390-dc29514ffeb7.png)
 
