@@ -120,3 +120,6 @@ I decided to create new columns named after the result in which we were looking 
 *Most popular tea drink*
 ![Most Popular Tea - Formula](https://user-images.githubusercontent.com/100732722/235485178-0a646118-cd30-45ec-8390-dc29514ffeb7.png)
 
+Once the answers to the questions have been individualized, I used the UNION tool to bring them all together by position...
+
+![Union](https://user-images.githubusercontent.com/100732722/235485647-03d7be62-bae2-4231-be91-64886094d10e.png)
