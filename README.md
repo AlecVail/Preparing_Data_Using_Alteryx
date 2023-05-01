@@ -106,9 +106,9 @@ I decided to create new columns named after the result in which we were looking 
 ![Biggest Consumer of Regular Coffee - Formula](https://user-images.githubusercontent.com/100732722/235484729-30d610c6-4f09-40fd-8199-357daf8fdc3d.png)
 
 *Biggest consumer of decaf coffee*
-![Biggest Consumer of Decaf Coffee - Formula](https://user-images.githubusercontent.com/100732722/235484863-2a569be6-e34c-4c1c-bace-f940171ffefc.png)\
+![Biggest Consumer of Decaf Coffee - Formula](https://user-images.githubusercontent.com/100732722/235484863-2a569be6-e34c-4c1c-bace-f940171ffefc.png)
 
-*Most popular coffee drink*
+*Most popular type of coffee drink*
 ![Most Popular Coffee Drink - Formula](https://user-images.githubusercontent.com/100732722/235485085-4274e25c-6f3e-4532-90fc-1a1bb86a4a13.png)
 
 *Biggest consumer of regular tea*
@@ -117,8 +117,8 @@ I decided to create new columns named after the result in which we were looking 
 *Biggest consumer of decaf tea*
 ![Biggest Consumer of Decaf Tea - Formula](https://user-images.githubusercontent.com/100732722/235485112-c474f175-92be-4924-aa0e-8a9087041d9d.png)
 
-*Most popular tea drink*
-![Most Popular Tea - Formula](https://user-images.githubusercontent.com/100732722/235485178-0a646118-cd30-45ec-8390-dc29514ffeb7.png)
+*Most popular type of tea drink*
+![Most Popular Tea - Formula](https://user-images.githubusercontent.com/100732722/235487264-b23518ac-41c7-421f-9c65-eb8a0816d7db.png)
 
 ...
 
