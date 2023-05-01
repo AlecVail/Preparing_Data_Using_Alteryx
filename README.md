@@ -132,8 +132,12 @@ Use the SELECT tool to get rid of any unnecessary data...
 
 Ka-Pow!...We have officially prepped raw data for further analysis to determine whether coffee or tea is more popular than the other in the U.S.
 
+...
+
 Here are my personal results:
+
 ![Personal Results - Browse](https://user-images.githubusercontent.com/100732722/235486668-d1436729-1029-47b5-b209-6e5f106d766d.png)
 
-Here are the results from Alteryx Academy:
+Here are Alteryx Academys' Results:
+
 ![Challenge Solution](https://user-images.githubusercontent.com/100732722/235486743-bae342a4-c91e-4c70-83cf-e7d1b309128b.png)
