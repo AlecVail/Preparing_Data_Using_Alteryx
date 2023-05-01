@@ -22,7 +22,7 @@ The first few questions regard coffee...Here is my coffee workflow:
 
 ...
 
-QUESTION 1: Which state is the biggest consumer of regular coffee?
+**QUESTION 1: Which state is the biggest consumer of regular coffee?**
  
  First, I create a custom filter to separate regular coffee from everything else...
  
@@ -46,7 +46,7 @@ BOOM! We have found the biggest consumer of regular coffee: California.
 
 ...
 
-QUESTION 2: Which state is the biggest consumer of decaf coffee?
+**QUESTION 2: Which state is the biggest consumer of decaf coffee?**
 
 Let's do the same thing here as we did with regular coffee. Let's begin by taking all the data from the "False" output of our original filter tool and separate decaf coffee from all tea products...
 
@@ -68,7 +68,7 @@ BAM! We have found the biggest consumer of decaf coffee: Illinois.
 
 ...
 
-QUESTION 3: Which type of coffee drink is the most popular?
+**QUESTION 3: Which type of coffee drink is the most popular?**
 
 At this point I developed a separate section within my workflow for this question. The connection is coming straight from the input file itself...
 
@@ -82,4 +82,17 @@ Time to GROUP BY and SUM just like we've done twice before...
 
 ![Popular Coffee - Summarize](https://user-images.githubusercontent.com/100732722/235226476-46e09f84-06c8-484d-ba87-ee655add74af.png)
 
-**Ran out of time. To be continued...**
+SORT BY sales in descending order...
+
+![Popular Coffee - Sort](https://user-images.githubusercontent.com/100732722/235479827-610cfa14-9cb7-454e-afd2-73eb65043528.png)
+
+Considering the data is now sorted from most popular to least popular coffee drink by sales, I will pull the most pupular drink via SAMPLE tool...
+
+![Popular Coffee - Sample](https://user-images.githubusercontent.com/100732722/235480384-da64085d-4a77-4d06-ae39-c5cd78ef976a.png)
+
+**Now it is time to do the same process as we did for Coffee, but for Tea...**
+
+![Tea Flow](https://user-images.githubusercontent.com/100732722/235483411-52e5a928-6995-4060-a9ae-2caeb126f3bb.png)
+
+![Most Popular Tea](https://user-images.githubusercontent.com/100732722/235483762-7562cc45-026e-4145-bf61-8b8731646fc7.png)
+
