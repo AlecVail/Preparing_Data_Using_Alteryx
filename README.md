@@ -1,4 +1,4 @@
-# Preparing_Data_Using_Alteryx_(In_Progress)
+# Preparing_Data_Using_Alteryx
 
 Coffee or Tea? - That is the question. 
 
